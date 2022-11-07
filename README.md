@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maggie940155(Ching-Wen,Hsu)
-- 🏫 I am currently studying my Master of Business Analysis at Durham University.
+- 🏫 I am currently studying Master of Business Analysis at Durham University.
 - 💞 expertise in data analysis, machine learning, Natural Language Processing (NLP)
 - 📫 You reach me by maggie940155@gmail.com
 
